@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Feb 17 19:38:59 2024
+
+@author: DCarreon
+"""
+
 #calculate the probability of cancer patient and diagnostic test
 
 #calculate P(A|B), given P(A), P(B|A), P(B|not A)
