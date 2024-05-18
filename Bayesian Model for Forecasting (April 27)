@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Apr 29 22:08:25 2024
+
+@author: DCarreon
+"""
+
 import bambi as bmb
 import matplotlib.pyplot as plt
 import numpy as np
